@@ -1,0 +1,13 @@
+/* display block: 인라인 요소 */
+.carousel-item img{
+  height: 100vh;
+  /* 100vh */
+  /* vh, vw */
+  /* view port height : 보이는 화면의 높이를 꽉 채워라 */
+  /* view port width */
+}
+
+nav{
+  z-index:1;
+  
+}
